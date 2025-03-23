@@ -25,3 +25,5 @@ Include a list of the project instructinons:
 >## Contact Information
 Name: Aya Heshmat
 Email: aya.heshmat@gmail.com
+
+<img src ="MIToriginal.gif" width='300'/>
